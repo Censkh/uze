@@ -1,5 +1,6 @@
 name = "uzeful-website"
-compatibility_date = "2026-08-15"
+compatibility_date = "2026-09-09"
+compatibility_flags = ["new_module_registry"]
 workers_dev = false
 
 [assets]
